@@ -1,6 +1,10 @@
 # Hi! I'm Aayan 👋🏾
 ### Computer Science Student @ UIC | Game & Systems Developer (Unity / C# & Godot / GDScript)
 
+<div align="center">
+  <img src="GithubBanner2026.gif" alt="Aayan Naqvi Banner" width="800" />
+</div>
+
 [![GitHub](https://img.shields.io/badge/GitHub-AayanNaqvi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AayanNaqvi)
 ![Unity](https://img.shields.io/badge/Unity-C%23-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot_4-GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
